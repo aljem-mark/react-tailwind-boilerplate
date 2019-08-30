@@ -1,10 +1,10 @@
 import React from 'react'
+import HelloWorld from '~pages/HelloWorld'
 
 function App() {
   return (
-    <div className="App">
-    </div>
-  );
+    <HelloWorld />
+  )
 }
 
-export default App;
+export default App

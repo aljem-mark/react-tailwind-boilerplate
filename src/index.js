@@ -8,7 +8,7 @@ import * as serviceWorker from './serviceWorker'
 global.axios = axios
 
 // Set the axios baseURL here
-// axios.defaults.baseURL = 'http://52.221.234.188/api'
+// axios.defaults.baseURL = 'http://'
 
 ReactDOM.render(<App />, document.getElementById('root'))
 
